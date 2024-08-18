@@ -1,4 +1,16 @@
-### 설정
+## github
+### 기능
+* 내 소스코드를 저장(버전 관리)
+* 소스코드 공유
+* 협업하는 공간
+
+### github 가입(공간)
+https://github.com/ > repository 생성
+
+### git 설치(명령으로 기능 활용)
+https://git-scm.com/ > 운영체제에 맞게 다운로드 및 설치
+
+### 설정(vs-code 터미널 활용)
 ```(url)
 git config --global user.name '아이디'
 git config --global user.email '메일주소'
